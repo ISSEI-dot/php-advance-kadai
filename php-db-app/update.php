@@ -1,8 +1,8 @@
 <?php
- $dsn = 'mysql:dbname=php_db_app;host=localhost;charset=utf8mb4';
- $user = 'root';
+ $dsn = 'mysql:dbname=gcds4rribqk582cg;host=un0jueuv2mam78uv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4';
+ $user = 'zssxhuqm2ghx8de9';
 // MAMPを利用しているMacユーザーの方は、''ではなく'root'を代入してください
- $password = '';
+ $password = 'ifq46g0h1c9f71d3';
 
  // submitパラメータの値が存在するとき（「更新」ボタンを押したとき）の処理
  if (isset($_POST['submit'])) {
