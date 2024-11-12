@@ -42,7 +42,7 @@
     }
 
     $dog = new Animal("dog", 60, 5000);
-    print_r($dog);
+    echo $dog;
     echo '<br>';
     echo $potato->show_price();
     echo '<br>';
