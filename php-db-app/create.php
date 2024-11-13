@@ -1,8 +1,8 @@
 <?php
- $dsn = 'mysql:dbname=gcds4rribqk582cg;host=un0jueuv2mam78uv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4';
- $user = 'zssxhuqm2ghx8de9';
+ $dsn = 'mysql:dbname=vdb54ri9hbt9sy5k;host=uyu7j8yohcwo35j3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4' ;
+ $user = 'we16gmsielq2sgfp';
 // MAMPを利用しているMacユーザーの方は、''ではなく'root'を代入してください
- $password = 'ifq46g0h1c9f71d3';
+ $password = 'ghzfhv3ti0f9icud';
 
  // submitパラメータの値が存在するとき（「登録」ボタンを押したとき）の処理
  if (isset($_POST['submit'])) {
